@@ -9,8 +9,19 @@ html, body {
   border-bottom: 1px solid var(--code-bg-color);
   grid-template-columns: 1fr 150px 60% 1fr;
 }
+}
 
-alert {
+.alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    border-top-color: rgb(255, 238, 186);
+    border-right-color: rgb(255, 238, 186);
+    border-bottom-color: rgb(255, 238, 186);
+    border-left-color: rgb(255, 238, 186);
+}
+
+.alert {
     position: relative;
     padding: 1.5rem 1.5rem;
     padding-top: 1.5rem;
