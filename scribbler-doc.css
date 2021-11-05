@@ -11,23 +11,25 @@ html, body {
 }
 }
 
-.alert-warning {
-    color: #856404;
-    background-color: #fff3cd;
-    border-color: #ffeeba;
-    border-top-color: rgb(255, 238, 186);
-    border-right-color: rgb(255, 238, 186);
-    border-bottom-color: rgb(255, 238, 186);
-    border-left-color: rgb(255, 238, 186);
+a:link {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
 }
-.alert {
-    position: relative;
-    padding: 1.5rem 1.5rem;
-    margin-bottom: 1rem;
-    border: 1px
- solid transparent;
-    border-radius: 0;
-    
+a:visited {
+  color: maroon;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkBlue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: darkPurple;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .wrapper {
