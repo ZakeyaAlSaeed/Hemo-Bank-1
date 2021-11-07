@@ -142,7 +142,6 @@ Development Status: Initial
 DeveloperDocumentation
 =======================
 
-faizafaisal.github.io/hemo-bank/
-
+[Click Here](https://faizafaisal.github.io/Hemo-Bank/)
 
 
