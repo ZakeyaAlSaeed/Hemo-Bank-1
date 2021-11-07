@@ -19,11 +19,10 @@ Table of contents
    * [Description](#description)
    * [Features](#features)
    * [Requirements](#requirements)
-   * [CodeOfCoduct](#codeofConduct)
    * [Developer Guidelines](#developerGuidelines)
+   * [Code Of Coduct](#codeofconduct)
    * [Development Status](#developmentStatus)
-   * [Developer Documentation](#developerDocumentation)
-   
+   * [Developer Documentation](#developerDocumentation)   
 <!--te-->
 
 
@@ -66,8 +65,6 @@ Windows, Mac OS X or Linux git (used for source version control)
 Fork it into your own GitHub account. If you already have a fork and are now installing a development environment on a new machine, make sure you've updated your fork.
 3. Contributing code
 We gladly accept contributions through GitHub pull requests. To send us a pull request: click the " pull request" button
-
-
 
 CodeOfCoduct
 =============
