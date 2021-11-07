@@ -19,7 +19,7 @@ Table of contents
    * [Description](#description)
    * [Features](#features)
    * [Requirements](#requirements)
-   * [CodeOfCoduct](#codeOfConduct)
+   * [CodeOfCoduct](#codeofConduct)
    * [Developer Guidelines](#developerGuidelines)
    * [Development Status](#developmentStatus)
    * [Developer Documentation](#developerDocumentation)
