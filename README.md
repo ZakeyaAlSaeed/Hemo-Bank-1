@@ -18,12 +18,11 @@ Table of contents
 <!--ts-->
    * [Description](#description)
    * [Features](#features)
-      * [STDIN](#stdin)
    * [Requirements](#requirements)
-   * [CodeOfCoduct](#codeOfConduct)
-   * [DeveloperGuidelines](#developerGuidelines)
-   * [DevelopmentStatus](#developmentStatus)
-   * [DeveloperDocumentation](#developerDocumentation)
+   * [Code Of Coduct](#codeOfConduct)
+   * [Developer Guidelines](#developerGuidelines)
+   * [Development Status](#developmentStatus)
+   * [Developer Documentation](#developerDocumentation)
    
 <!--te-->
 
@@ -55,11 +54,11 @@ The results can be viewed by the donor. The result of blood test reports will de
 The app should notify the admin whenever a donor books an appointment and when a hospital requests blood. The hospitals will get confirmation notifications. Donors will receive notifications regarding the eligibility test reports.
 
 
-Requirement
+Requirements
 ============
 1.	Mobile application requires an active internet connection.
 
-Developer Guidelines
+DeveloperGuidelines
 ====================
 1. Things you require
 Windows, Mac OS X or Linux git (used for source version control)
@@ -70,7 +69,7 @@ We gladly accept contributions through GitHub pull requests. To send us a pull r
 
 
 
-Code Of Coduct
+CodeOfCoduct
 =============
 Contributor Covenant Code of Conduct
 Our Pledge
@@ -137,13 +136,13 @@ Community Impact Guidelines were inspired by Mozilla's code of conduct enforceme
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
 
 
-Development Status
+DevelopmentStatus
 ==================
 
 Development Status: Initial
 
 
-Developer Documentation
+DeveloperDocumentation
 =======================
 
 faizafaisal.github.io/hemo-bank/
