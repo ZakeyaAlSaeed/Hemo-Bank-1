@@ -9,7 +9,6 @@
 
 An open source software to create and manage an online blood bank administration mobile app. Blood transfusion safety and availability is a major problem in Bahrain, which is working hard to build a world-class healthcare system for its inhabitants. To do so, a well-functioning open source blood bank system is necessary. The app also intends to encourage citizens to donate blood by providing services such as online donation appointments and blood donation pickup at their homes.
 
-This app makes it easier for hospitals to check the available and needed blood types. Likewise, there will be blood donors’ registration, thus, ensuring that blood transfusion services will be safe and secured. The app will be of great help to all users, donors, hospital staff, administration ensuring a better healthcare system. The app allows the blood bank to make inventories of their blood bags online, thus, allowing each hospital to check the availability of blood bags anytime. Likewise, proper management of blood donors ensures that the expected blood transfusion services will be safe and secured.
 
 
 
@@ -17,7 +16,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
+   * [Description](#description)
    * [Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
@@ -35,26 +34,11 @@ Table of contents
 <!--te-->
 
 
-Installation
+Description
 ============
 
-Linux (manual installation)
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
+This app makes it easier for hospitals to check the available and needed blood types. Likewise, there will be blood donors’ registration, thus, ensuring that blood transfusion services will be safe and secured. The app will be of great help to all users, donors, hospital staff, administration ensuring a better healthcare system. The app allows the blood bank to make inventories of their blood bags online, thus, allowing each hospital to check the availability of blood bags anytime. Likewise, proper management of blood donors ensures that the expected blood transfusion services will be safe and secured.
 
-MacOS (manual installation)
-```bash
-$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
-Linux or MacOS (using [Basher](https://github.com/basherpm/basher))
-```bash
-$ basher install ekalinin/github-markdown-toc
-# `gh-md-toc` will automatically be available in the PATH
-```
 
 Usage
 =====
