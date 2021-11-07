@@ -55,11 +55,6 @@ The results can be viewed by the donor. The result of blood test reports will de
 The app should notify the admin whenever a donor books an appointment and when a hospital requests blood. The hospitals will get confirmation notifications. Donors will receive notifications regarding the eligibility test reports.
 
 
-
-STDIN
------
-hhhh
-
 Requirement
 ============
 1.	Mobile application requires an active internet connection.
