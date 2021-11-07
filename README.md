@@ -17,10 +17,13 @@ Table of contents
 
 <!--ts-->
    * [Description](#description)
-   * [Features](#feature)
+   * [Features](#features)
       * [STDIN](#stdin)
-   * [Requirement](#requirement)
+   * [Requirements](#requirements)
+   * [CodeOfCoduct](#codeOfConduct)
    * [DeveloperGuidelines](#developerGuidelines)
+   * [DevelopmentStatus](#developmentStatus)
+   * [DeveloperDocumentation](#developerDocumentation)
    
 <!--te-->
 
@@ -49,6 +52,17 @@ DeveloperGuidelines
 hhhh
 
 
+CodeOfCoduct
+============
+
+
+DevelopmentStatus
+============
+
+
+
+DeveloperDocumentation
+============
 
 
 
