@@ -17,20 +17,11 @@ Table of contents
 
 <!--ts-->
    * [Description](#description)
-   * [Usage](#usage)
+   * [Features](#feature)
       * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
+   * [Requirement](#requirement)
+   * [DeveloperGuidelines](#developerGuidelines)
+   
 <!--te-->
 
 
@@ -40,24 +31,24 @@ Description
 This app makes it easier for hospitals to check the available and needed blood types. Likewise, there will be blood donors’ registration, thus, ensuring that blood transfusion services will be safe and secured. The app will be of great help to all users, donors, hospital staff, administration ensuring a better healthcare system. The app allows the blood bank to make inventories of their blood bags online, thus, allowing each hospital to check the availability of blood bags anytime. Likewise, proper management of blood donors ensures that the expected blood transfusion services will be safe and secured.
 
 
-Usage
+Features
 =====
+hhhhh
 
 
 STDIN
 -----
+hhhh
 
-Here's an example of TOC creating for markdown from STDIN:
+Requirement
+============
+hhhh
 
-```bash
-➥ cat ~/projects/Dockerfile.vim/README.md | ./gh-md-toc -
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
-```
+DeveloperGuidelines
+============
+hhhh
+
+
 
 
 
