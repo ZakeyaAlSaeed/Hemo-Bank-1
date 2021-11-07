@@ -100,22 +100,27 @@
         <section class="js-section">
           <h3 class="section__title">Syntax Definitions</h3>
           <p>Example of a PickerImage Function for profile Interface.</p>
-          <pre class="code code--block">
-            <code>
-              Future pickImage(ImageSource source) async {
-                try {
-                  final image = await ImagePicker().pickImage(source: source);
-                  if (image == null) return;
-            
-                  final imageTemporary = File(image.path);
-                  setState(() => this.image = imageTemporary);
-                  // uploadFile();
-                } on PlatformException catch (e) {
-                  print("Failed to pick the image : $e");
-                }
-              }
-            </code>
-          </pre>
+          <ol>
+            <li>
+              <pre class="code code--block">
+                <code>
+                  Future pickImage(ImageSource source) async {
+                    try {
+                      final image = await ImagePicker().pickImage(source: source);
+                      if (image == null) return;
+                
+                      final imageTemporary = File(image.path);
+                      setState(() => this.image = imageTemporary);
+                      // uploadFile();
+                    } on PlatformException catch (e) {
+                      print("Failed to pick the image : $e");
+                    }
+                  }
+                </code>
+              </pre>
+            </li>
+          </ol>
+          
         </section>
       </article>
     </div>
