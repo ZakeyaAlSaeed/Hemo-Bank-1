@@ -59,7 +59,7 @@ Requirement
 ============
 1.	Mobile application requires an active internet connection.
 
-DeveloperGuidelines
+Developer Guidelines
 ====================
 1. Things you require
 Windows, Mac OS X or Linux git (used for source version control)
