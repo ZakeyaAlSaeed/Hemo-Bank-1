@@ -7,7 +7,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/FaizaFaisal/Hemo-Bank)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/FaizaFaisal/Hemo-Bank/v1.0.0/total)
 
-An open source software to create and manage an online blood bank administration mobile app. Blood transfusion safety and availability is a major problem in Bahrain, which is working hard to build a world-class healthcare system for its inhabitants. To do so, a well-functioning open source blood bank system is necessary. The app also intends to encourage citizens to donate blood by providing services such as online donation appointments and blood donation pickup at their homes.
+An open source software to create and manage an online blood bank administration mobile app. Blood transfusion safety and availability is a major problem in Bahrain, which is working hard to build a world-class healthcare system for its inhabitants. To do so, a well-functioning open source blood bank system is necessary. The app also intends to encourage citizens to donate blood by providing services such as online donation appointments and blood donation pickup at their homes.This project is a part of our course requirments
 
 
 
